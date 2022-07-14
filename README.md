@@ -1,5 +1,5 @@
 # 메인 페이지 연결 링크
-***https://deruline.github.io/project_3_myintro/***
+**https://deruline.github.io/project_3_myintro/**
 
 # Getting Started with Create React App
 
