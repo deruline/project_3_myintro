@@ -1,0 +1,43 @@
+.Contact_area {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(158, 162, 207);
+  padding-top: 200px;
+}
+.contact_title {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  color: rgba(0, 0, 0);
+  font-size: 50px;
+  width: 600px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.contact_title::before,
+.contact_title::after {
+  content: "";
+  flex-grow: 1;
+  background: rgba(0, 0, 0, 0.35);
+  height: 1px;
+  font-size: 0px;
+  line-height: 0px;
+  margin: 0px 16px;
+}
+
+.title_all {
+  width: 500px;
+  font-size: 25px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.title_all:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.title_all:hover .t {
+  color: rgb(230, 240, 92);
+}
