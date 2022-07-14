@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/project_3_myintro/static/css/main.ea594d3c.css",
+    "main.js": "/project_3_myintro/static/js/main.104b71d5.js",
+    "static/js/787.5a49acc3.chunk.js": "/project_3_myintro/static/js/787.5a49acc3.chunk.js",
+    "static/media/project_3.png": "/project_3_myintro/static/media/project_3.1017f7f2fe2aa033307b.png",
+    "static/media/project_1.png": "/project_3_myintro/static/media/project_1.e0e89526860ed1dcba06.png",
+    "static/media/BlackHanSans-Regular.ttf": "/project_3_myintro/static/media/BlackHanSans-Regular.f4f89062321390018f92.ttf",
+    "static/media/DoHyeon-Regular.ttf": "/project_3_myintro/static/media/DoHyeon-Regular.33a15385076163ccf1b8.ttf",
+    "static/media/SCDream8.otf": "/project_3_myintro/static/media/SCDream8.64217e4da7638066e57a.otf",
+    "static/media/SCDream7.otf": "/project_3_myintro/static/media/SCDream7.a8d826f4cafb0e728051.otf",
+    "static/media/SCDream6.otf": "/project_3_myintro/static/media/SCDream6.4df12ee03e70b6326c25.otf",
+    "static/media/SCDream9.otf": "/project_3_myintro/static/media/SCDream9.c8e7afd869e076d5055d.otf",
+    "static/media/main_img.jpg": "/project_3_myintro/static/media/main_img.9c4cd86fe34f6cef91fe.jpg",
+    "static/media/my.jpg": "/project_3_myintro/static/media/my.fb31d56e8538a983a6b0.jpg",
+    "static/media/project_2.png": "/project_3_myintro/static/media/project_2.140b014ffa9d5636365c.png",
+    "static/media/git_logo.png": "/project_3_myintro/static/media/git_logo.e8c9f88f6eb8686f011f.png",
+    "static/media/react_icon.png": "/project_3_myintro/static/media/react_icon.768358ca4f40bfc9deee.png",
+    "static/media/jquey_icon.png": "/project_3_myintro/static/media/jquey_icon.2528cc3be3021a9cc59a.png",
+    "static/media/nodejs_icon.png": "/project_3_myintro/static/media/nodejs_icon.6ae9b71d3fefa302b6f3.png",
+    "static/media/logo.svg": "/project_3_myintro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project_3_myintro/index.html",
+    "main.ea594d3c.css.map": "/project_3_myintro/static/css/main.ea594d3c.css.map",
+    "main.104b71d5.js.map": "/project_3_myintro/static/js/main.104b71d5.js.map",
+    "787.5a49acc3.chunk.js.map": "/project_3_myintro/static/js/787.5a49acc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea594d3c.css",
+    "static/js/main.104b71d5.js"
+  ]
+}
