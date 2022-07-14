@@ -1,3 +1,6 @@
+# 메인 페이지 연결 링크
+***https://deruline.github.io/project_3_myintro/***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
