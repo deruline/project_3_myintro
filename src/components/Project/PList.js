@@ -109,9 +109,9 @@ function PList() {
               <div className="url_link link_font">
                 <a
                   target="_blank"
-                  href="http://deruline.dothome.co.kr/project_gps/"
+                  href="https://deruline.github.io/project_2_GPS/프로젝트2_개발소스/"
                 >
-                  http://deruline.dothome.co.kr/project_gps/
+                 https://deruline.github.io/project_2_GPS/프로젝트2_개발소스/
                 </a>
               </div>
             </div>
